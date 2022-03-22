@@ -1,4 +1,4 @@
-import {COMPLETE_TODO , ADD_TODO , REMOVE_TODO , UPDATE_TODO, SET_FILTER} from './actionType';
+import {COMPLETE_TODO , ADD_TODO , REMOVE_TODO , UPDATE_TODO,} from './actionType';
 
 export const completeTodo=(todo)=>({
     type: COMPLETE_TODO,

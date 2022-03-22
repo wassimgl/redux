@@ -40,8 +40,8 @@
   padding: 0 1.3rem;
   border: none;
   width:250px;
-  background: #F27F0C;
-  color: white;
+  background: #05f3fc;
+  color: rgb(12, 11, 11);
   font-weight: bold;
   border: 1px solid rgba(255, 255, 255, 0.3);
   /* margin-left: 5px; */
@@ -113,7 +113,7 @@
     padding: 0 1.3rem;
     border: none;
     background: #09A4DB;
-    color: white;
+    color: rgb(12, 11, 11);
     font-weight: bold;
     border: 1px solid rgba(255, 255, 255, 0.3);
     margin-left: 5px;
@@ -124,12 +124,12 @@
 }
 
 .TodoInput button:hover {
-    background: rgba(0, 0, 0, 0.1);
+    background: rgba(218, 221, 15, 0.1);
 }
 
 .description{
     font-size: 25px;
-color:#697A98;
+color:#0d0d0e;
 margin-top: 70px;
 margin-bottom: -15px;
 }
